@@ -1,4 +1,5 @@
-The `termux/termux-app` repository is released under [GPLv3 only](https://www.gnu.org/licenses/gpl-3.0.html) license.
+Thttps://www.facebook.com/profile.php?id=61572201509230
+he `termux/termux-app` repository is released under [GPLv3 only](https://www.gnu.org/licenses/gpl-3.0.html) license.
 
 ### Exceptions
 
